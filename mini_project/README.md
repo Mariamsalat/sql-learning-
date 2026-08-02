@@ -8,13 +8,13 @@ The WSDA Music Relational Database serves as the central repository for the comp
 
 The database contains the following major categories of information:
 
-    - **Music Catalog**: Details of artists, albums, tracks, playlists, and music genres.
+ - **Music Catalog**: Details of artists, albums, tracks, playlists, and music genres.
 
-    - **Customer Information**: Customer names, contact details, and account records.
+ - **Customer Information**: Customer names, contact details, and account records.
 
-    - **Employee Records**: Employee information, including job roles and organizational details.
+ - **Employee Records**: Employee information, including job roles and organizational details.
 
-    - **Sales and Transactions**: Purchase records, invoices, payment transactions, and revenue generated from music sales.
+ - **Sales and Transactions**: Purchase records, invoices, payment transactions, and revenue generated from music sales.
  
 **Table Relationships**
 
